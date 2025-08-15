@@ -104,7 +104,7 @@ Robust to tilted, shadowed, and noisy images.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/water-meter-reader.git
+git clone https://github.com/harshitsrivastava644/Water-Meter-Reader.git
 cd water-meter-reader
 2. Install Dependencies
 bash
